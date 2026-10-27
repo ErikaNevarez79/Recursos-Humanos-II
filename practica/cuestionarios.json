@@ -1,0 +1,272 @@
+{
+  "titulo": "Recursos Humanos II",
+  "unidades": [
+    "Evaluación del desempeño",
+    "Administración de sueldos y salarios",
+    "Nóminas",
+    "Auditoría de Recursos Humanos",
+    "Capacitación y desarrollo"
+  ],
+  "preguntas": [
+    {
+      "id": 1,
+      "unidad": 1,
+      "nivel": "Fácil",
+      "pregunta": "¿Cuál es el objetivo principal de la evaluación del desempeño dentro de una organización?",
+      "opciones": [
+        "Identificar el rendimiento, las competencias y las áreas de mejora de los trabajadores para favorecer su desarrollo profesional.",
+        "Supervisar exclusivamente la puntualidad y asistencia de los trabajadores.",
+        "Determinar sanciones para los trabajadores que no cumplen con las expectativas de sus superiores."
+      ],
+      "correcta": 0,
+      "retroalimentacion": "La evaluación del desempeño permite medir el cumplimiento de objetivos, identificar fortalezas y detectar áreas de oportunidad."
+    },
+    {
+      "id": 2,
+      "unidad": 1,
+      "nivel": "Fácil",
+      "pregunta": "¿Qué método de evaluación del desempeño permite obtener información sobre un trabajador a partir de las opiniones de sus superiores, compañeros, subordinados y, en algunos casos, clientes?",
+      "opciones": [
+        "Evaluación mediante escalas gráficas.",
+        "Evaluación de 360 grados.",
+        "Evaluación por objetivos individuales."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "La evaluación de 360 grados recopila información de distintas personas que interactúan con el trabajador."
+    },
+    {
+      "id": 3,
+      "unidad": 1,
+      "nivel": "Intermedio",
+      "pregunta": "Un trabajador cumple con sus metas de productividad, pero presenta dificultades para trabajar en equipo y comunicarse con sus compañeros. ¿Qué debería hacer Recursos Humanos con los resultados de su evaluación del desempeño?",
+      "opciones": [
+        "Considerar únicamente el cumplimiento de las metas de productividad, ya que los demás aspectos no influyen en su desempeño.",
+        "Aplicar una sanción inmediata por las dificultades identificadas, sin analizar sus causas.",
+        "Reconocer sus resultados positivos y establecer un plan de mejora para fortalecer sus habilidades de comunicación y trabajo en equipo."
+      ],
+      "correcta": 2,
+      "retroalimentacion": "La evaluación debe considerar resultados laborales y competencias, para establecer acciones de mejora."
+    },
+    {
+      "id": 4,
+      "unidad": 1,
+      "nivel": "Difícil",
+      "pregunta": "Una empresa detecta calificaciones muy altas en las evaluaciones del desempeño, aunque la productividad es baja. Los supervisores califican favorablemente a todos para evitar conflictos. ¿Qué debería hacer la organización?",
+      "opciones": [
+        "Mantener las evaluaciones actuales, ya que las calificaciones positivas favorecen el ambiente laboral.",
+        "Establecer criterios objetivos de evaluación, capacitar a los supervisores y utilizar indicadores verificables para reducir los sesgos.",
+        "Eliminar las evaluaciones del desempeño y considerar únicamente la antigüedad de los trabajadores."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "El error de indulgencia sesga los resultados. Criterios objetivos y capacitación de evaluadores mejoran su confiabilidad."
+    },
+    {
+      "id": 5,
+      "unidad": 2,
+      "nivel": "Fácil",
+      "pregunta": "¿Cuál es el objetivo principal de la administración de sueldos y salarios dentro de una organización?",
+      "opciones": [
+        "Establecer remuneraciones considerando únicamente la antigüedad de los trabajadores.",
+        "Reducir los costos laborales mediante la disminución de los salarios.",
+        "Establecer remuneraciones justas y competitivas, considerando las responsabilidades del puesto, la equidad interna y las condiciones del mercado laboral."
+      ],
+      "correcta": 2,
+      "retroalimentacion": "La administración salarial busca equidad interna y competitividad externa."
+    },
+    {
+      "id": 6,
+      "unidad": 2,
+      "nivel": "Intermedio",
+      "pregunta": "¿Cuál es la principal diferencia entre la equidad interna y la competitividad externa en la administración de sueldos y salarios?",
+      "opciones": [
+        "La equidad interna busca remuneraciones justas entre los puestos de la organización, mientras que la competitividad externa compara los salarios con los del mercado laboral.",
+        "La equidad interna se relaciona únicamente con las prestaciones, mientras que la competitividad externa depende de la antigüedad del trabajador.",
+        "La equidad interna establece salarios iguales para todos los trabajadores, mientras que la competitividad externa determina los aumentos salariales de manera automática."
+      ],
+      "correcta": 0,
+      "retroalimentacion": "La equidad interna compara puestos dentro de la empresa; la competitividad externa compara remuneraciones con el mercado."
+    },
+    {
+      "id": 7,
+      "unidad": 2,
+      "nivel": "Intermedio",
+      "pregunta": "Una empresa identifica que dos trabajadores desempeñan puestos con responsabilidades, funciones y condiciones laborales equivalentes, pero reciben salarios diferentes sin una justificación objetiva. ¿Qué principio debe revisar Recursos Humanos?",
+      "opciones": [
+        "La competitividad externa, para determinar los salarios que ofrecen otras empresas.",
+        "La equidad salarial interna, para garantizar remuneraciones justas en puestos de igual valor.",
+        "La antigüedad laboral, para establecer diferencias salariales independientemente de las funciones desempeñadas."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "La equidad interna busca remuneraciones proporcionales al valor del puesto y diferencias justificadas."
+    },
+    {
+      "id": 8,
+      "unidad": 2,
+      "nivel": "Difícil",
+      "pregunta": "Una empresa presenta alta rotación porque sus salarios son inferiores a los del sector, pero tiene presupuesto limitado. ¿Qué estrategia debería implementar Recursos Humanos?",
+      "opciones": [
+        "Incrementar los salarios de todos en el mismo porcentaje, sin considerar el mercado.",
+        "Mantener los salarios actuales y sustituir continuamente a quienes renuncien.",
+        "Realizar un estudio de mercado salarial, identificar los puestos con mayores diferencias y establecer ajustes graduales según prioridades y posibilidades financieras."
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Un estudio salarial permite priorizar ajustes equilibrando competitividad, equidad y presupuesto."
+    },
+    {
+      "id": 9,
+      "unidad": 3,
+      "nivel": "Fácil",
+      "pregunta": "¿Cuál es la función principal de la nómina dentro de una organización?",
+      "opciones": [
+        "Registrar únicamente la asistencia y puntualidad de los trabajadores.",
+        "Calcular y registrar las percepciones, deducciones y el pago neto correspondiente a cada trabajador.",
+        "Determinar exclusivamente los aumentos salariales y las promociones del personal."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "La nómina registra percepciones y deducciones para determinar el importe neto."
+    },
+    {
+      "id": 10,
+      "unidad": 3,
+      "nivel": "Intermedio",
+      "pregunta": "Un trabajador tiene un sueldo quincenal de $7,500.00 y durante ese periodo se le aplican deducciones por $1,250.00. ¿Cuál es el importe neto?",
+      "opciones": [
+        "$8,750.00",
+        "$7,500.00",
+        "$6,250.00"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "$7,500.00 − $1,250.00 = $6,250.00."
+    },
+    {
+      "id": 11,
+      "unidad": 3,
+      "nivel": "Intermedio",
+      "pregunta": "Un trabajador gana $400 diarios y laboró 3 horas extras en un mismo día, dentro de las primeras 9 horas extraordinarias de la semana. Su jornada es de 8 horas. ¿Cuánto recibirá por esas horas extras según la LFT?",
+      "opciones": [
+        "$150.00",
+        "$300.00",
+        "$450.00"
+      ],
+      "correcta": 1,
+      "retroalimentacion": "Salario por hora: $400 ÷ 8 = $50. Horas extras al doble: $50 × 2 × 3 = $300."
+    },
+    {
+      "id": 12,
+      "unidad": 3,
+      "nivel": "Difícil",
+      "pregunta": "En una nómina quincenal hay $9,000.00 de percepciones, $1,350.00 de deducciones registradas y una deducción autorizada omitida de $750.00. ¿Cuál es el sueldo neto correcto, suponiendo que la deducción es legalmente procedente?",
+      "opciones": [
+        "$6,900.00",
+        "$7,650.00",
+        "$8,250.00"
+      ],
+      "correcta": 0,
+      "retroalimentacion": "Deducciones totales: $1,350 + $750 = $2,100. Neto: $9,000 − $2,100 = $6,900."
+    },
+    {
+      "id": 13,
+      "unidad": 4,
+      "nivel": "Fácil",
+      "pregunta": "¿Cuál es el objetivo principal de una auditoría de Recursos Humanos dentro de una organización?",
+      "opciones": [
+        "Revisar exclusivamente los registros de asistencia y puntualidad.",
+        "Evaluar los procesos, políticas y prácticas de Recursos Humanos para identificar áreas de mejora y verificar su cumplimiento.",
+        "Determinar únicamente qué trabajadores deben recibir aumentos salariales."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "La auditoría examina de manera sistemática procesos y cumplimiento para identificar mejoras."
+    },
+    {
+      "id": 14,
+      "unidad": 4,
+      "nivel": "Intermedio",
+      "pregunta": "Una empresa tenía 100 trabajadores al inicio del mes y 110 al finalizarlo. Durante ese periodo, 5 trabajadores dejaron la organización. ¿Cuál es el índice de rotación por bajas respecto a la plantilla promedio?",
+      "opciones": [
+        "5.00 %",
+        "4.55 %",
+        "4.76 %"
+      ],
+      "correcta": 2,
+      "retroalimentacion": "Plantilla promedio: (100 + 110) ÷ 2 = 105. Índice: (5 ÷ 105) × 100 = 4.76 %."
+    },
+    {
+      "id": 15,
+      "unidad": 4,
+      "nivel": "Intermedio",
+      "pregunta": "Una empresa tiene 50 trabajadores que laboran 8 horas diarias durante 20 días al mes. Se acumularon 160 horas de ausencia. ¿Cuál es el índice de ausentismo por horas?",
+      "opciones": [
+        "2 %",
+        "4 %",
+        "8 %"
+      ],
+      "correcta": 0,
+      "retroalimentacion": "Horas programadas: 50 × 8 × 20 = 8,000. Ausentismo: (160 ÷ 8,000) × 100 = 2 %."
+    },
+    {
+      "id": 16,
+      "unidad": 4,
+      "nivel": "Difícil",
+      "pregunta": "Una auditoría detecta alta rotación y ausentismo; las entrevistas de salida revelan inconformidades con supervisión y condiciones laborales. ¿Qué debería recomendar el auditor?",
+      "opciones": [
+        "Contratar nuevos trabajadores sin modificar las condiciones existentes.",
+        "Aplicar sanciones generales para reducir ausencias y renuncias.",
+        "Analizar causas, establecer acciones correctivas y dar seguimiento mediante indicadores de gestión."
+      ],
+      "correcta": 2,
+      "retroalimentacion": "La auditoría debe formular recomendaciones basadas en evidencias y medir sus resultados."
+    },
+    {
+      "id": 17,
+      "unidad": 5,
+      "nivel": "Fácil",
+      "pregunta": "¿Cuál es el objetivo principal de la capacitación de los trabajadores dentro de una organización?",
+      "opciones": [
+        "Incrementar responsabilidades sin preparación adicional.",
+        "Desarrollar conocimientos, habilidades y competencias que permitan mejorar el desempeño laboral.",
+        "Sustituir la evaluación del desempeño por cursos de actualización."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "La capacitación fortalece competencias y mejora el desempeño laboral."
+    },
+    {
+      "id": 18,
+      "unidad": 5,
+      "nivel": "Intermedio",
+      "pregunta": "Una empresa detecta dificultades para utilizar un nuevo sistema informático. Antes de implementar capacitación, ¿qué debería hacer Recursos Humanos?",
+      "opciones": [
+        "Contratar inmediatamente nuevos trabajadores que dominen el sistema.",
+        "Organizar cursos generales sin investigar las dificultades específicas.",
+        "Realizar un diagnóstico de necesidades de capacitación para identificar conocimientos y habilidades que deben fortalecerse."
+      ],
+      "correcta": 2,
+      "retroalimentacion": "El diagnóstico identifica brechas entre competencias actuales y requeridas."
+    },
+    {
+      "id": 19,
+      "unidad": 5,
+      "nivel": "Intermedio",
+      "pregunta": "De acuerdo con la Ley Federal del Trabajo en México, ¿cuál es una de las principales obligaciones de los patrones en materia de capacitación?",
+      "opciones": [
+        "Proporcionar capacitación y adiestramiento a los trabajadores para mejorar sus competencias y desempeño laboral.",
+        "Ofrecer capacitación únicamente a trabajadores directivos.",
+        "Permitir que cada trabajador decida si necesita capacitarse, sin establecer programas de formación."
+      ],
+      "correcta": 0,
+      "retroalimentacion": "El artículo 153-A de la LFT establece la obligación patronal de proporcionar capacitación o adiestramiento."
+    },
+    {
+      "id": 20,
+      "unidad": 5,
+      "nivel": "Difícil",
+      "pregunta": "Una empresa capacitó para reducir errores de producción. Los trabajadores aprobaron evaluaciones teóricas, pero después de tres meses los errores continúan. ¿Qué debería hacer Recursos Humanos?",
+      "opciones": [
+        "Considerar exitosa la capacitación porque aprobaron las evaluaciones.",
+        "Evaluar la aplicación práctica, analizar indicadores de errores e identificar las causas que impiden mejorar el desempeño.",
+        "Repetir el mismo programa sin modificarlo ni revisar resultados."
+      ],
+      "correcta": 1,
+      "retroalimentacion": "La eficacia requiere verificar la transferencia al puesto y los resultados organizacionales, no solo los exámenes."
+    }
+  ]
+}

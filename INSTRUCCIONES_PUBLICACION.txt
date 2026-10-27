@@ -1,0 +1,9 @@
+PÁGINA INTEGRADA DE RECURSOS HUMANOS II
+
+1. Extrae el ZIP.
+2. Sube la carpeta extraída (que contiene index.html, html, practica, content, etc.) a Netlify Drop.
+3. Desde la portada del curso pulsa Abrir cuestionarios interactivos.
+4. Los alumnos pueden practicar por unidad o realizar el reto general.
+
+Para editar preguntas: practica/cuestionarios.json.
+Los resultados son locales en el navegador y no se envían al docente.
